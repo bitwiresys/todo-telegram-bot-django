@@ -1,0 +1,4 @@
+* text=auto
+
+# Ensure shell scripts keep LF (for Docker/Linux)
+*.sh text eol=lf
